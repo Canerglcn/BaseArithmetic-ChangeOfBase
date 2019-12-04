@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseArithmetic-ChangeOfBase", "BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase.csproj", "{DB1C8FC9-3448-46A7-93BD-BF89BAE749AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1C8FC9-3448-46A7-93BD-BF89BAE749AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1C8FC9-3448-46A7-93BD-BF89BAE749AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1C8FC9-3448-46A7-93BD-BF89BAE749AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1C8FC9-3448-46A7-93BD-BF89BAE749AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C92492FB-CEAB-46B9-A259-8BC0853A38BE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\bin\Debug\BaseArithmetic-ChangeOfBase.exe.config
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\bin\Debug\BaseArithmetic-ChangeOfBase.exe
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\bin\Debug\BaseArithmetic-ChangeOfBase.pdb
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic-ChangeOfBase.csprojAssemblyReference.cache
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic_ChangeOfBase.Form1.resources
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic_ChangeOfBase.Properties.Resources.resources
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic-ChangeOfBase.csproj.GenerateResource.cache
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic-ChangeOfBase.csproj.CoreCompileInputs.cache
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic-ChangeOfBase.exe
+C:\Users\skype\Desktop\Project 1\BaseArithmetic-ChangeOfBase\BaseArithmetic-ChangeOfBase\obj\Debug\BaseArithmetic-ChangeOfBase.pdb
